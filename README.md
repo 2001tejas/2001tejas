@@ -6,10 +6,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif">
 
-- 🌱 I’m currently learning **Android Studio.**
+- 🌱 I’m currently learning **Python language**
 
 - 🤝 I’m looking for help with **Git & GitHub.**
 
+- 🙄 I’m looking for new projecs **Python, Java, C**
 
 
 </br>
